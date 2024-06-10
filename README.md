@@ -17,5 +17,4 @@
 <h2>Screenshot</h2>
 <br>
 <div align='center'>
-Join chat page
-<img src='./screenshot.png'/>
+<img src='./public/screenshot.png'/>
