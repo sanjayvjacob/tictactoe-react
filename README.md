@@ -17,4 +17,4 @@
 <h3>Screenshot</h3>
 <br>
 <div align='center'>
-<!-- <img src='./public/screenshot.png'/> -->
+<img src='./public/screenshot.png' width='300'/>
