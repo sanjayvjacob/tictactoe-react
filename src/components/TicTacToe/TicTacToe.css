@@ -14,8 +14,6 @@
 .reset{
   width: 90px;
   height: 40px;
-  border: none;
-  outline: none;
   cursor: pointer;
   border: 1px solid #4aae76;
   border-radius: 50px;
